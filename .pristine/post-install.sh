@@ -34,4 +34,3 @@ echo ""
 echo -e "${RED}NOTE: This Pristine template requires extra setup inside the AWS Dashboard for ElasticBeanstalk Auto Deploys ${NC}(see CIRCLECI.md)"
 
 echo ""
-
