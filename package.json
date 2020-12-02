@@ -23,7 +23,7 @@
     "@open-rpc/generator-client": "^1.9.6",
     "@open-rpc/typings": "^1.4.2",
     "@types/cors": "^2.8.5",
-    "@types/jest": "^24.0.13",
+    "@types/jest": "^26.0.16",
     "jest": "^24.8.0",
     "ts-jest": "^24.0.2",
     "tslint": "^5.17.0",
